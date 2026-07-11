@@ -1,4 +1,4 @@
-# Ravent | Make sure to drop a ⭐ if you liked the script
+# Ravent, A Pixelized Script | Make sure to drop a ⭐ if you liked the script
 ## Load the Script
 ```lua
 getgenv().version = "B"
